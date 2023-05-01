@@ -7,4 +7,4 @@ A fun project exploring the world of prime numbers and their relationship with c
 (3) Only check for possible denominators in the range of [3, sqrt(current_number)].
 
 ## Interesting "discovery"
-The composite : prime ratio increases very slowly. When we are in the tens of millions, that ratio was still at around 20:1. 
+The composite : prime ratio increases very slowly. When we got to the tens of millions, that ratio was still at around 20:1. 
